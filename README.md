@@ -10,20 +10,20 @@ This project is a simple Spotify clone built using HTML and CSS. It replicates t
 
 Features
 
-Responsive Design: The layout adapts seamlessly to different screen sizes, ensuring a smooth user experience on both desktop and mobile devices.
+"Responsive Design: The layout adapts seamlessly to different screen sizes, ensuring a smooth user experience on both desktop and mobile devices."
 
-Navigation Bar: A user-friendly navigation bar for easy access to playlists, albums, and other sections.
+"Navigation Bar: A user-friendly navigation bar for easy access to playlists, albums, and other sections."
 
-Hover Effects: Interactive hover effects on buttons and song titles to enhance user engagement.
+"Hover Effects: Interactive hover effects on buttons and song titles to enhance user engagement."
 
-Basic Styling: Utilizes modern CSS techniques for styling.
+"Basic Styling: Utilizes modern CSS techniques for styling."
 
 
 Technologies Used
 
-HTML: Structure of the web pages.
+"HTML: Structure of the web pages."
 
-CSS: Styling and layout of the application.
+"CSS: Styling and layout of the application."
 
 
 Getting Started
