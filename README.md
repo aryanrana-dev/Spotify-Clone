@@ -28,13 +28,13 @@ Technologies Used
 
 Getting Started
 
-To run this project locally, follow these steps:
+To run this project locally, follow the steps below
 
-1. Clone the Repository:
+1. "Clone the Repository:
 
-git clone https://github.com/aryanrana.dev/spotify-clone.git
+git clone https://github.com/aryanrana.dev/spotify-clone.git"
 
-2. Open the HTML File: Navigate to the cloned directory and open the index.html file in your preferred web browser.
+2. "Open the HTML File: Navigate to the cloned directory and open the index.html file in your preferred web browser."
 
 
 Future Improvements
