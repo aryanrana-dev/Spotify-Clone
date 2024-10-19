@@ -48,7 +48,7 @@ Explore integrating a music API to fetch real-time song data.
 
 Contact
 
-For any questions or feedback, feel free to reach out to me at [aryan.rana.cse@gmail.com](malito:aryan.rana.cse@gmail.com).
+For any questions or feedback, feel free to reach out to me at [aryan.rana.cse@gmail.com](mailto:aryan.rana.cse@gmail.com).
 
 
 ---
