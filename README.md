@@ -32,7 +32,7 @@ To run this project locally, follow the steps below
 
 1. Clone the Repository-
 
-git clone https://github.com/aryanrana.dev/spotify-clone.git
+[git clone](https://github.com/aryanrana.dev/spotify-clone.git)
 
 2. Open the HTML File- Navigate to the cloned directory and open the index.html file in your preferred web browser.
 
@@ -48,7 +48,7 @@ Explore integrating a music API to fetch real-time song data.
 
 Contact
 
-For any questions or feedback, feel free to reach out to me at [aryan.rana.cse@gmail.com].
+For any questions or feedback, feel free to reach out to me at [aryan.rana.cse@gmail.com](malito:aryan.rana.cse@gmail.com).
 
 
 ---
