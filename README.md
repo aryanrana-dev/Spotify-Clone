@@ -1,14 +1,12 @@
----
-
-Spotify Clone
+# Spotify Clone
 
 
-Overview
+## Overview
 
 This project is a simple Spotify clone built using HTML and CSS. It replicates the user interface and some functionalities of the popular music streaming service, showcasing my skills in front-end web development.
 
 
-Features
+## Features
 
 "Responsive Design: The layout adapts seamlessly to different screen sizes, ensuring a smooth user experience on both desktop and mobile devices."
 
@@ -19,14 +17,14 @@ Features
 "Basic Styling: Utilizes modern CSS techniques for styling."
 
 
-Technologies Used
+## Technologies Used
 
 "HTML: Structure of the web pages."
 
 "CSS: Styling and layout of the application."
 
 
-Getting Started
+## Getting Started
 
 To run this project locally, follow the steps below
 
@@ -37,7 +35,7 @@ To run this project locally, follow the steps below
 2. Open the HTML File- Navigate to the cloned directory and open the index.html file in your preferred web browser.
 
 
-Future Improvements
+## Future Improvements
 
 Add JavaScript functionality for interactive features like play, pause, and skip songs.
 
@@ -46,9 +44,6 @@ Implement user authentication to allow users to create and manage their playlist
 Explore integrating a music API to fetch real-time song data.
 
 
-Contact
+## Contact
 
 For any questions or feedback, feel free to reach out to me at [aryan.rana.cse@gmail.com](mailto:aryan.rana.cse@gmail.com).
-
-
----
